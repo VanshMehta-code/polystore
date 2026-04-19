@@ -7,3 +7,5 @@ polystore
 polystore_debug
 compile_command.json
 EOF
+tests/pyproject.toml
+tests/uv.lock
