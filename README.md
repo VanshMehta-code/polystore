@@ -181,7 +181,7 @@ polystore/
 
 ---
 
-## Roadmap
+## Upcoming Updates
 
 - WideColumn engine — sparse rows, column families
 - Custom engine profiles via JSON config
