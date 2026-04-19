@@ -1,3 +1,9 @@
+cat > .gitignore << EOF
+data/
 build/
-*.o *.out *.exe
-compile_commands.json
+*.bin
+*.wal
+polystore
+polystore_debug
+compile_command.json
+EOF
